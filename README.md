@@ -38,9 +38,11 @@ To handle the problem, run the following file:
 
 
 ## Wiener Filter
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+### problem description
+Let $y (n) =x (n) +v (n)$, where $x(n)=10sin(\frac{\pi n}{128}+\frac{\pi}{3})$,$v(n)$
+is white noise with variance of 1.25. Design FIR and IIR Wiener filter to estimate the signal s (n).
+### Usage
+To handle the problem, run the following file:
 
 
 ## Features
