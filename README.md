@@ -5,8 +5,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Optimal Estimation](#optimal-estimation)
-* [Features](#features)
-* [Screenshots](#screenshots)
+* [Wiener Filter](#wiener-filter)
+* [Kalman Filter](#kalman-filter)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -63,6 +63,13 @@ To handle the problem, run the following file:
 `1/code_3/kalman_adaptive.m`
 ### Limited K Reduction Kalman Filter
 `1/code_3/kalman_restain_K.m`
+
+### Extended Kalman Filter
+`2/code_0/EKF.m`
+### Unscented Kalman Filter
+`2/code_0/UKF.m`
+### Particle Filter
+`2/code_0/PF.m`
 
 
 ## Setup
