@@ -67,56 +67,27 @@ To handle the problem, run the following file:
 ### Limited K Reduction Kalman Filter
 `1/code_3/kalman_restain_K.m`
 
-## Extended Kalman Filter
+### Extended Kalman Filter
 `2/code_0/EKF.m`
-## Unscented Kalman Filter
+### Unscented Kalman Filter
 `2/code_0/UKF.m`
-## Particle Filter
+### Particle Filter
 `2/code_0/PF.m`
 
-## Federated Kalman Filter
+### Federated Kalman Filter
 `2/code_1/federated_filter.m`
-## Decentralized Kalman filter
+### Decentralized Kalman filter
 `2/code_1/center_federated_filter.m`
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+## Fuzzy Control
+### Basic method
+`4/code/TS_model.m`
+### T-S method
+`4/code/TS_model.m`
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+changjingliu@sjtu.edu.cn
 
 
 <!-- Optional -->
