@@ -47,7 +47,7 @@ To handle the problem, run the following file:
 `1/code_1/main.mat`
 
 ### Result
-
+![wiener_filter](./1/code_2/img/wiener_filter.png)
 
 ## Features
 List the ready features here:
