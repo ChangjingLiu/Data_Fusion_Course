@@ -23,7 +23,7 @@ Suppose a voltage is a random variable $X$ with normal distribution, the mean va
 ### Usage
 To handle the problem, run the following file:
 
-`1/code_1/main123.mat`
+`1/code_1/main123.m`
 
 ### Result
 |  Method   | $\hat{X}$ estimation  |MSE|
@@ -44,21 +44,25 @@ is white noise with variance of $1.25$. Design FIR and IIR Wiener filter to esti
 ### Usage
 To handle the problem, run the following file:
 
-`1/code_1/main.mat`
+`1/code_1/main.m`
 
 ### Result
 ![wiener_filter](./1/code_2/img/wiener_filter.png)
 
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+## Kalman Filter
 
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+### Basic Kalman Filter
+`1/code_3/kalman.m`
+### Constant Gain Kalman Filter
+`1/code_3/kalman_constant_gain.m`
+### Square root Kalman Filter
+`1/code_3/kalman_sqrt.m`
+### Forgetting Factor Kalman Filter
+`1/code_3/kalman_forgetting_factor.m`
+### Adaptive Kalman Filter
+`1/code_3/kalman_adaptive.m`
+### Limited K Reduction Kalman Filter
+`1/code_3/kalman_restain_K.m`
 
 
 ## Setup
