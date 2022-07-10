@@ -24,13 +24,14 @@ Suppose a voltage is a random variable $X$ with normal distribution, the mean va
 To handle the problem, run the following file:
 
 `1/code_1/main123.m`
-
+<!--
 ### Result
 |  Method   | $\hat{X}$ estimation  |MSE|
 | :-----| :----: | :----:|
 | LSE  | 5.0615 |0.0063|
 | WLS  | 5.0292 |0.0040|
 | LMMSE  | 5.0281 |0.0038|
+-->
 
 
 
@@ -46,8 +47,10 @@ To handle the problem, run the following file:
 
 `1/code_1/main.m`
 
+<!--
 ### Result
 ![wiener_filter](./1/code_2/img/wiener_filter.png)
+-->
 
 ## Kalman Filter
 
@@ -70,6 +73,9 @@ To handle the problem, run the following file:
 `2/code_0/UKF.m`
 ### Particle Filter
 `2/code_0/PF.m`
+
+## Federated Kalman Filter
+`2/code_1/federated_filter.m`
 
 
 ## Setup
