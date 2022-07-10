@@ -67,16 +67,17 @@ To handle the problem, run the following file:
 ### Limited K Reduction Kalman Filter
 `1/code_3/kalman_restain_K.m`
 
-### Extended Kalman Filter
+## Extended Kalman Filter
 `2/code_0/EKF.m`
-### Unscented Kalman Filter
+## Unscented Kalman Filter
 `2/code_0/UKF.m`
-### Particle Filter
+## Particle Filter
 `2/code_0/PF.m`
 
 ## Federated Kalman Filter
 `2/code_1/federated_filter.m`
-
+## Decentralized Kalman filter
+`2/code_1/center_federated_filter.m`
 
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
