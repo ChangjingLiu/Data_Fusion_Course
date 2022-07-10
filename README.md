@@ -1,17 +1,11 @@
 # Data Fusion
 > This are code repo for the Data Fusion course in SJTU.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
-* [General Info](#general-information)
 * [Optimal Estimation](#optimal-estimation)
 * [Wiener Filter](#wiener-filter)
 * [Kalman Filter](#kalman-filter)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [Fuzzy Control](#fuzzy-control)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
