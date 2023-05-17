@@ -1,5 +1,5 @@
 # Data Fusion
-> This are code repo for the Data Fusion course in SJTU.
+> This are code repo for the Data Fusion course.
 
 ## Table of Contents
 * [Optimal Estimation](#optimal-estimation)
